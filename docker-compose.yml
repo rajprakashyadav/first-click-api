@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  perfect.click.api:
+    image: ${DOCKER_REGISTRY}perfectclickapi
+    build:
+      context: .
+      dockerfile: PERFECT.CLICK.API/Dockerfile
