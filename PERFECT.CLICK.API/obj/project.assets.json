@@ -12371,8 +12371,8 @@
     },
     "PERFECT.CLICK.SERVICES/1.0.0": {
       "type": "project",
-      "path": "../../PERFECT.CLICK.SERVICES/PERFECT.CLICK.SERVICES.csproj",
-      "msbuildProject": "../../PERFECT.CLICK.SERVICES/PERFECT.CLICK.SERVICES.csproj"
+      "path": "../PERFECT.CLICK.SERVICES/PERFECT.CLICK.SERVICES.csproj",
+      "msbuildProject": "../PERFECT.CLICK.SERVICES/PERFECT.CLICK.SERVICES.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12420,8 +12420,8 @@
             "C:\\Users\\rajprakashy865\\Documents\\first click\\API\\PERFECT.CLICK.DAL\\PERFECT.CLICK.DAL.csproj": {
               "projectPath": "C:\\Users\\rajprakashy865\\Documents\\first click\\API\\PERFECT.CLICK.DAL\\PERFECT.CLICK.DAL.csproj"
             },
-            "C:\\Users\\rajprakashy865\\Documents\\first click\\PERFECT.CLICK.SERVICES\\PERFECT.CLICK.SERVICES.csproj": {
-              "projectPath": "C:\\Users\\rajprakashy865\\Documents\\first click\\PERFECT.CLICK.SERVICES\\PERFECT.CLICK.SERVICES.csproj"
+            "C:\\Users\\rajprakashy865\\Documents\\first click\\API\\PERFECT.CLICK.SERVICES\\PERFECT.CLICK.SERVICES.csproj": {
+              "projectPath": "C:\\Users\\rajprakashy865\\Documents\\first click\\API\\PERFECT.CLICK.SERVICES\\PERFECT.CLICK.SERVICES.csproj"
             }
           }
         }

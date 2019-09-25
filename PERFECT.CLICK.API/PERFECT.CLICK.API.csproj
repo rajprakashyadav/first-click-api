@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\PERFECT.CLICK.SERVICES\PERFECT.CLICK.SERVICES.csproj" />
     <ProjectReference Include="..\PERFECT.CLICK.DAL\PERFECT.CLICK.DAL.csproj" />
+    <ProjectReference Include="..\PERFECT.CLICK.SERVICES\PERFECT.CLICK.SERVICES.csproj" />
   </ItemGroup>
 
 </Project>
