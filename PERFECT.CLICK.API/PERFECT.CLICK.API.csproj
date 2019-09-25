@@ -11,9 +11,12 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.17" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.5.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\PERFECT.CLICK.SERVICES\PERFECT.CLICK.SERVICES.csproj" />
     <ProjectReference Include="..\PERFECT.CLICK.DAL\PERFECT.CLICK.DAL.csproj" />
   </ItemGroup>
 

@@ -1,9 +1,8 @@
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\bin\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.deps.json
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\bin\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.dll
-C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\obj\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.csprojAssemblyReference.cache
+C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\bin\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.pdb
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\obj\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.csproj.CoreCompileInputs.cache
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\obj\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.AssemblyInfoInputs.cache
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\obj\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.AssemblyInfo.cs
-C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\bin\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.pdb
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\obj\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.dll
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.DAL\obj\Debug\netcoreapp2.0\PERFECT.CLICK.DAL.pdb

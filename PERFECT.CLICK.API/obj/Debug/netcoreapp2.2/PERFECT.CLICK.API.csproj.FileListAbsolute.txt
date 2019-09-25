@@ -1,4 +1,8 @@
+C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.API.deps.json
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.DAL.dll
+C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.SERVICES.dll
+C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.SERVICES.pdb
+C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.DAL.pdb
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.csprojAssemblyReference.cache
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.csproj.CoreCompileInputs.cache
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.RazorAssemblyInfo.cache
@@ -6,12 +10,10 @@ C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\ne
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.AssemblyInfoInputs.cache
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.AssemblyInfo.cs
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.RazorTargetAssemblyInfo.cache
-C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.API.deps.json
+C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.csproj.CopyComplete
+C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.dll
+C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.pdb
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.API.runtimeconfig.json
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.API.runtimeconfig.dev.json
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.API.dll
 C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.API.pdb
-C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\bin\Debug\netcoreapp2.2\PERFECT.CLICK.DAL.pdb
-C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.csproj.CopyComplete
-C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.dll
-C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API\obj\Debug\netcoreapp2.2\PERFECT.CLICK.API.pdb
