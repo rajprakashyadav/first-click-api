@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+  perfect.click.api:
+    image: perfectclickapi:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_perfect.click.api$
+    volumes:
+      - C:\Users\rajprakashy865\Documents\first click\API\PERFECT.CLICK.API:/app
+      - C:\Users\rajprakashy865\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_perfect.click.api$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_perfect.click.api$ bin/Debug/netcoreapp2.2/PERFECT.CLICK.API.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
